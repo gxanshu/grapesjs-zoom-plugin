@@ -36,6 +36,10 @@ body, html {
 * Plugin name: `grapesjs-zoom-plugin`
 super simple plugin for canvas zoom in zoom out. this plugin works with the api of canvas of the grapesjs.
 
+there are two buttons in the `Panel` to control the canvas if you want the keyboard shortcut then its `shift -` for zoom out and `shift =` for zoom in. 
+
+in any case you have issue with the keyboard shortcuts keys then please open a [issue](https://github.com/gxanshu/grapesjs-zoom-plugin/issues/new) i am happy to help!
+
 
 
 ## Download
