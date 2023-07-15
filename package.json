@@ -1,0 +1,25 @@
+{
+  "name": "grapesjs-zoom-plugin",
+  "version": "1.0.5",
+  "description": "Grapesjs Zoom Plugin",
+  "main": "dist/index.js",
+  "license": "MIT",
+  "homepage": "https://codenanshu.in/projects/grapesjs-zoom-plugin",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gxnanshu/grapesjs-zoom-plugin.git"
+  },
+  "scripts": {
+    "start": "grapesjs-cli serve",
+    "build": "grapesjs-cli build",
+    "bump": "npm version patch -m 'Bump v%s'"
+  },
+  "keywords": [
+    "grapesjs",
+    "plugin"
+  ],
+  "devDependencies": {
+    "@babel/runtime": "^7.22.6",
+    "grapesjs-cli": "^4.1.1"
+  }
+}
